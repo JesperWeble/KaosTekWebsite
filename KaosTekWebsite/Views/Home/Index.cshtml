@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    @model IEnumerable<Item>
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+
+
+    <div class="items-container">
+        @foreach (var item in Model)
+        {
+            <div class="item-card">
+                <h4>@item.itemName</h4>
+                <p>Price: @item.price kr</p>
+            </div>
+        }
+    </div>
+
+</div>

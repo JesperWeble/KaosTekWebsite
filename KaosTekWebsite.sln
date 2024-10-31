@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaosTekWebsite", "KaosTekWebsite\KaosTekWebsite.csproj", "{AD853268-A4C1-4D4E-BC2A-150EA0016435}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD853268-A4C1-4D4E-BC2A-150EA0016435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD853268-A4C1-4D4E-BC2A-150EA0016435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD853268-A4C1-4D4E-BC2A-150EA0016435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD853268-A4C1-4D4E-BC2A-150EA0016435}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D275F49-EF0B-43FE-99AE-44E21515419E}
+	EndGlobalSection
+EndGlobal
